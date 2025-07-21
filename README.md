@@ -13,7 +13,7 @@ The dashboard includes:
 - **Line Chart**: Sales and Orders Over Time  
 - **Bar Charts**: Top 5 Customers, Top Products by Quantity  
 - **Map**: Sales by Country  
-- **Slicers**: Date, Country, Customer ID, Invoice Number
+- **Slicers**: Year & Month, Country, Customer ID, Stock Code
 
 ---
 
